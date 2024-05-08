@@ -1,7 +1,7 @@
 ### Full Name
-Xingyu Xie
+
 ### Student ID
-8095566981
+
 ### EXTRA CREDIT
 Yes. I designed an algorithm which using 'randomly shaffling + mapping' strategy to encrypt username and passcode.
 ### Submission Files
